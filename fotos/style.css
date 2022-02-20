@@ -1,0 +1,42 @@
+
+h1 {
+ font-size: 50px;
+ text-align: center;
+ margin-top: 70px;
+ font-family: serif;
+  
+
+
+}
+
+figure{
+    float:left;
+    width: 50%;
+    
+
+}
+img{
+    width: 200px;
+    border-style: groove;
+
+}
+ul,li{
+    display: inline-flex;
+}
+figcaption{
+    font-size: 18px;
+
+   
+}
+p{
+     padding-right: 5%;
+
+}
+body{
+    border-style:inset;
+    border-width: 50px;
+}
+footer{
+    border-style:inset;
+    border-width: 50px;
+}
